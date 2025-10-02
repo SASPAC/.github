@@ -18,11 +18,11 @@ See the [**list of currently available packages**](https://github.com/orgs/SASPA
 
 ### How to start?
 
-See this YouTube [video series introducing the idea and basic use cases](https://www.youtube.com/watch?v=W2Plo3i_uFQ&list=PLeMzGEImIT5eV13IGXQIgWmTFCJt_cLZG&pp=gAQB "YouTube") to learn how to start your adventure with SAS packages.
+If you **never used SAS packages before**, see this YouTube [video series introducing the idea and basic use cases](https://www.youtube.com/watch?v=W2Plo3i_uFQ&list=PLeMzGEImIT5eV13IGXQIgWmTFCJt_cLZG&pp=gAQB "YouTube") to learn how to start your adventure with SAS packages.
 
-If you are interested in developing a SAS package see these [detailed tutorial materials](https://github.com/yabwon/HoW-SASPackages "Tutorial").
+If you are **interested in developing** a SAS package, see these [detailed tutorial materials](https://github.com/yabwon/HoW-SASPackages "Tutorial").
 
-Read the [SAS Packages Archive policy](https://github.com/SASPAC/.github/blob/main/SASPAC_policy.md "SAS Packages Archive policy") to learn our rules.
+Before you submit a request to add your SAS package to the `SASPAC` read the [SAS Packages Archive policy](https://github.com/SASPAC/.github/blob/main/SASPAC_policy.md "SAS Packages Archive policy") to learn our rules.
 
 ---
 
