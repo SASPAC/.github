@@ -67,3 +67,9 @@ The following rules and practices apply to repositories, packages, and developer
 - The SASPAC team reserves the right to remove packages from SAS Packages Archive without notice or explanation (usually we notify and explain).
 
 ---
+
+### Acknowledgment 
+
+The SASPAC team would like to acknowledge the [CRAN](https://cran.r-project.org/ "CRAN") project team. Their work was an inspiration and this document is highly influenced by the following document: "[CRAN Repository Policy](https://cran.r-project.org/web/packages/policies.html)"
+
+---
