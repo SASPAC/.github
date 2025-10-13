@@ -27,6 +27,8 @@ Before you submit a request to add your SAS package to the `SASPAC` read the [SA
 
 ---
 
-![SAS Packages - the way to share](https://github.com/SASPAC/.github/assets/9314894/1712d153-19ed-478b-ac18-e296e88c5d9c)
+![SAS Packages - the way to share](SPFlogo1200x770.png)
+
+![SAS Packages mascots](wolf_and_sheep_small.png)
 
 ---
